@@ -19,3 +19,4 @@
 - [用友融联借助MeterSphere开源持续测试平台提升测试效率](https://blog.fit2cloud.com/?p=2801)
 - [蔚澜环保基于MeterSphere的自动化测试实践](https://blog.fit2cloud.com/?p=1591)
 - [社区分享丨法大大基于MeterSphere打通DevOps流程](https://blog.fit2cloud.com/?p=3876)
+- [社区分享丨万帮能源基于MeterSphere展开微服务接口自动化测试](https://blog.fit2cloud.com/?p=803a62a3-03c0-4e84-84e3-0e7f8efcc3c5)
